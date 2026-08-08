@@ -1,0 +1,37 @@
+{
+  "focus": "Menstrual Health",
+  "concerns": [
+    {
+      "id": "early_period",
+      "label": "Period came earlier than expected"
+    },
+    {
+      "id": "late_period",
+      "label": "Period came later than expected"
+    },
+    {
+      "id": "heavy_bleeding",
+      "label": "Unusually heavy bleeding"
+    },
+    {
+      "id": "painful_period",
+      "label": "Unusually painful period"
+    },
+    {
+      "id": "irregular_period",
+      "label": "Irregular periods"
+    },
+    {
+      "id": "between_period_bleeding",
+      "label": "Bleeding between periods"
+    },
+    {
+      "id": "unexpected_stopped_period",
+      "label": "Period stopped unexpectedly"
+    },
+    {
+      "id": "other",
+      "label": "Other menstrual concern"
+    }
+  ]
+}
