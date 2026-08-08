@@ -1,0 +1,20 @@
+{
+  "privacy": {
+    "mode": "privacy_first",
+    "collect_minimum_information": true,
+    "request_identifiers": false,
+    "store_personal_identifiers": false,
+    "repeat_sensitive_information_unnecessarily": false,
+    "allow_conversation_clearing": true,
+    "rules": [
+      "Ask only information necessary for health navigation",
+      "Do not request full name unless absolutely necessary",
+      "Do not request government identification",
+      "Do not request exact address",
+      "Do not unnecessarily repeat sensitive information",
+      "Explain why sensitive information may be requested",
+      "Remind users to share only relevant information"
+    ],
+    "user_message": "Please share only information you are comfortable sharing and that is relevant to your question."
+  }
+}
