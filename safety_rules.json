@@ -1,0 +1,31 @@
+{
+  "safety_engine": {
+    "enabled": true,
+    "purpose": "Identify potential situations where professional or urgent care may be appropriate",
+    "rules": [
+      {
+        "condition": "Potentially urgent warning signs identified",
+        "action": "Prioritize safety guidance"
+      },
+      {
+        "condition": "Professional evaluation may be appropriate",
+        "action": "Recommend qualified healthcare professional"
+      },
+      {
+        "condition": "No apparent urgent concern from provided information",
+        "action": "Provide general education and appropriate next-step guidance"
+      }
+    ],
+    "mandatory_behavior": [
+      "Do not diagnose",
+      "Do not provide false reassurance",
+      "Do not ignore potential warning signs",
+      "Clearly explain uncertainty",
+      "Recommend professional care when appropriate"
+    ],
+    "urgent_message": {
+      "title": "⚠️ Important Health Alert",
+      "message": "Based on what you shared, professional medical attention may be important."
+    }
+  }
+}
