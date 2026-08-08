@@ -1,0 +1,28 @@
+{
+  "app_name": "SAHAYI AI",
+  "tagline": "From Confusion to the Right Next Step",
+  "purpose": "Multilingual, privacy-conscious women's health navigation",
+  "focus_area": "Menstrual Health",
+  "application_type": "Health Navigation",
+  "diagnosis_enabled": false,
+  "prescription_enabled": false,
+  "languages_supported": [
+    "English",
+    "Telugu"
+  ],
+  "core_journey": [
+    "Confusion",
+    "Clarity",
+    "Safety",
+    "Right Next Step",
+    "Doctor Preparation"
+  ],
+  "principles": [
+    "Minimum necessary information",
+    "Simple understandable language",
+    "Privacy-conscious interaction",
+    "Transparent uncertainty",
+    "Safe escalation",
+    "Professional healthcare preparation"
+  ]
+}
