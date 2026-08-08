@@ -1,0 +1,2 @@
+# sahayi-ai-health-navigation
+Multilingual GenAI women's health navigator helping users move from confusion to clarity, safe next steps, and informed healthcare conversations — without diagnosis.
