@@ -1,0 +1,25 @@
+{
+  "navigation_levels": [
+    {
+      "id": "green",
+      "name": "General Guidance",
+      "icon": "🟢",
+      "purpose": "Provide general health education and appropriate monitoring guidance",
+      "is_diagnosis": false
+    },
+    {
+      "id": "yellow",
+      "name": "Professional Review",
+      "icon": "🟡",
+      "purpose": "Recommend discussion with a qualified healthcare professional",
+      "is_diagnosis": false
+    },
+    {
+      "id": "red",
+      "name": "Urgent Attention",
+      "icon": "🔴",
+      "purpose": "Recommend prompt or urgent professional medical evaluation when potential warning signs are identified",
+      "is_diagnosis": false
+    }
+  ]
+}
