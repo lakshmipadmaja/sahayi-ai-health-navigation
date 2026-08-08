@@ -1,0 +1,54 @@
+{
+  "assessment": {
+    "principle": "Ask only the minimum necessary information",
+    "questions": [
+      {
+        "id": "main_concern",
+        "question": "What is your main concern?",
+        "required": true,
+        "type": "single_select"
+      },
+      {
+        "id": "start_time",
+        "question": "When did you first notice this?",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "id": "change",
+        "question": "Is it getting better, worse, or staying the same?",
+        "required": true,
+        "type": "single_select",
+        "options": [
+          "Getting better",
+          "Getting worse",
+          "Staying the same",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "daily_impact",
+        "question": "How much is it affecting your daily activities?",
+        "required": true,
+        "type": "single_select",
+        "options": [
+          "Not much",
+          "Somewhat",
+          "A lot"
+        ]
+      },
+      {
+        "id": "additional_information",
+        "question": "Is there anything else you think is important?",
+        "required": false,
+        "type": "text"
+      }
+    ],
+    "excluded_information": [
+      "Full name",
+      "Exact address",
+      "Government identification",
+      "Unnecessary personal identifiers"
+    ]
+  }
+}
