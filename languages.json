@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "name": "English",
+      "easy_read": true
+    },
+    {
+      "id": "te",
+      "name": "Telugu",
+      "easy_read": true
+    }
+  ],
+  "default_language": "en",
+  "easy_read_mode": {
+    "enabled": true,
+    "rules": [
+      "Use short sentences",
+      "Use simple words",
+      "Explain medical terminology",
+      "Use bullet points",
+      "Highlight important actions"
+    ]
+  }
+}
