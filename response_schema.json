@@ -1,0 +1,22 @@
+{
+  "response": {
+    "chat_response": "",
+    "red_flag_alert": false,
+    "safety_level": "green",
+    "summary_card": {
+      "current_understanding": "",
+      "what_it_may_mean": "",
+      "what_we_cannot_determine": "",
+      "next_step": "",
+      "reason": ""
+    },
+    "provider_questions": [],
+    "what_to_monitor": "",
+    "privacy_reminder": ""
+  },
+  "allowed_safety_levels": [
+    "green",
+    "yellow",
+    "red"
+  ]
+}
